@@ -1,0 +1,21 @@
+.body{
+    height: 99vh;
+    width: 99%;
+}
+.input{
+    border: 3px black solid;
+    width: 99%;
+}
+.result{
+    text-align: center;
+    width: 30px;    
+}
+.result span{
+    font-weight: bold;
+    font-size: 18px;
+    color: black;
+}
+#datos{
+    overflow-y: scroll;
+    height: 90vh;
+}
